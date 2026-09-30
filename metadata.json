@@ -1,0 +1,6 @@
+{
+  "name": "Secure Election Management System",
+  "description": "Enterprise-grade election management platform with mobile Android/iOS apps, admin console, cryptographic voting receipts, and tamper-resistant audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
